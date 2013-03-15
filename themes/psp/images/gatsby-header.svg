@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.2" baseProfile="tiny" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" width="1024px" height="255px" viewBox="0 0 1024 255" xml:space="preserve">
+<font horiz-adv-x="2048">
+<!-- Open Sans is a trademark of Google and may be registered in certain jurisdictions. -->
+<!-- Copyright: Copyright 2013 Adobe System Incorporated. All rights reserved. -->
+<font-face font-family="OpenSans" units-per-em="2048" underline-position="-154" underline-thickness="102"/>
+<missing-glyph horiz-adv-x="1229" d="M193,1462l841,0l0,-1462l-841,0M297,104l633,0l0,1254l-633,0z"/>
+<glyph unicode=" " horiz-adv-x="532"/>
+<glyph unicode="A" horiz-adv-x="1296" d="M1120,0l-182,465l-586,0l-180,-465l-172,0l578,1468l143,0l575,-1468M885,618l-170,453C693,1128 670,1199 647,1282C632,1218 611,1148 584,1071l-172,-453z"/>
+<glyph unicode="C" horiz-adv-x="1292" d="M827,1331C666,1331 540,1278 447,1171C354,1064 307,917 307,731C307,540 352,392 442,288C531,183 659,131 825,131C927,131 1043,149 1174,186l0,-149C1073,-1 948,-20 799,-20C584,-20 418,45 301,176C184,307 125,492 125,733C125,884 153,1016 210,1129C266,1242 347,1330 454,1391C560,1452 685,1483 829,1483C982,1483 1116,1455 1231,1399l-72,-146C1048,1305 938,1331 827,1331z"/>
+<glyph unicode="E" horiz-adv-x="1139" d="M1016,0l-815,0l0,1462l815,0l0,-151l-645,0l0,-471l606,0l0,-150l-606,0l0,-538l645,0z"/>
+<glyph unicode="F" horiz-adv-x="1057" d="M371,0l-170,0l0,1462l815,0l0,-151l-645,0l0,-535l606,0l0,-151l-606,0z"/>
+<glyph unicode="G" horiz-adv-x="1491" d="M844,766l497,0l0,-711C1264,30 1185,12 1105,-1C1025,-14 932,-20 827,-20C606,-20 433,46 310,178C187,309 125,494 125,731C125,883 156,1016 217,1131C278,1245 365,1332 480,1393C595,1453 729,1483 883,1483C1039,1483 1184,1454 1319,1397l-66,-150C1121,1303 994,1331 872,1331C694,1331 555,1278 455,1172C355,1066 305,919 305,731C305,534 353,384 450,282C546,180 687,129 874,129C975,129 1074,141 1171,164l0,450l-327,0z"/>
+<glyph unicode="H" horiz-adv-x="1511" d="M1311,0l-170,0l0,688l-770,0l0,-688l-170,0l0,1462l170,0l0,-622l770,0l0,622l170,0z"/>
+<glyph unicode="L" horiz-adv-x="1063" d="M201,0l0,1462l170,0l0,-1308l645,0l0,-154z"/>
+<glyph unicode="M" horiz-adv-x="1849" d="M848,0l-496,1296l-8,0C353,1193 358,1071 358,930l0,-930l-157,0l0,1462l256,0l463,-1206l8,0l467,1206l254,0l0,-1462l-170,0l0,942C1479,1050 1484,1167 1493,1294l-8,0l-500,-1294z"/>
+<glyph unicode="N" horiz-adv-x="1544" d="M1343,0l-194,0l-799,1227l-8,0C353,1083 358,951 358,831l0,-831l-157,0l0,1462l192,0l797,-1222l8,0C1197,258 1194,316 1189,414C1184,511 1183,581 1184,623l0,839l159,0z"/>
+<glyph unicode="O" horiz-adv-x="1595" d="M1470,733C1470,499 1411,315 1293,181C1174,47 1010,-20 799,-20C584,-20 418,46 301,178C184,309 125,495 125,735C125,973 184,1158 301,1289C418,1420 585,1485 801,1485C1011,1485 1175,1418 1293,1285C1411,1152 1470,968 1470,733M305,733C305,535 347,385 432,283C516,180 638,129 799,129C961,129 1083,180 1166,282C1249,384 1290,534 1290,733C1290,930 1249,1079 1167,1181C1084,1282 962,1333 801,1333C639,1333 516,1282 432,1180C347,1077 305,928 305,733z"/>
+<glyph unicode="P" horiz-adv-x="1233" d="M1128,1036C1128,888 1078,774 977,695C876,615 731,575 543,575l-172,0l0,-575l-170,0l0,1462l379,0C945,1462 1128,1320 1128,1036M371,721l153,0C675,721 784,745 851,794C918,843 952,921 952,1028C952,1125 920,1197 857,1244C794,1291 695,1315 561,1315l-190,0z"/>
+<glyph unicode="R" horiz-adv-x="1266" d="M371,608l0,-608l-170,0l0,1462l401,0C781,1462 914,1428 1000,1359C1085,1290 1128,1187 1128,1049C1128,856 1030,725 834,657l397,-657l-201,0l-354,608M371,754l233,0C724,754 812,778 868,826C924,873 952,945 952,1040C952,1137 924,1206 867,1249C810,1292 718,1313 592,1313l-221,0z"/>
+<glyph unicode="S" horiz-adv-x="1124" d="M1026,389C1026,260 979,160 886,88C793,16 666,-20 506,-20C333,-20 199,2 106,47l0,164C166,186 231,166 302,151C373,136 443,129 512,129C625,129 711,151 768,194C825,237 854,296 854,373C854,424 844,465 824,498C803,530 769,560 722,587C674,614 601,645 504,680C368,729 271,786 213,853C154,920 125,1007 125,1114C125,1227 167,1316 252,1383C337,1450 449,1483 588,1483C733,1483 867,1456 989,1403l-53,-148C815,1306 698,1331 584,1331C494,1331 424,1312 373,1273C322,1234 297,1181 297,1112C297,1061 306,1020 325,988C344,955 375,926 420,899C464,872 532,842 623,809C776,754 882,696 940,633C997,570 1026,489 1026,389z"/>
+<glyph unicode="T" horiz-adv-x="1133" d="M651,0l-170,0l0,1311l-463,0l0,151l1096,0l0,-151l-463,0z"/>
+<glyph unicode="Y" horiz-adv-x="1147" d="M573,731l390,731l184,0l-488,-895l0,-567l-172,0l0,559l-487,903l186,0z"/>
+<glyph unicode="I" horiz-adv-x="571" d="M201,0l0,1462l170,0l0,-1462z"/>
+</font>
+
+	<font horiz-adv-x="2048">
+<!-- Open Sans is a trademark of Google and may be registered in certain jurisdictions. -->
+<!-- Copyright: Copyright 2013 Adobe System Incorporated. All rights reserved. -->
+<font-face font-family="OpenSans-Light" units-per-em="2048" underline-position="-154" underline-thickness="102"/>
+<missing-glyph horiz-adv-x="1229" d="M193,1462l841,0l0,-1462l-841,0M297,104l633,0l0,1254l-633,0z"/>
+<glyph unicode=" " horiz-adv-x="532"/>
+<glyph unicode="A" horiz-adv-x="1229" d="M911,516l-594,0l-204,-516l-113,0l588,1468l65,0l576,-1468l-115,0M354,608l523,0l-199,527C661,1176 641,1234 618,1307C600,1243 580,1185 559,1133z"/>
+<glyph unicode="C" horiz-adv-x="1272" d="M831,1391C648,1391 503,1332 398,1215C293,1098 240,937 240,733C240,524 290,362 389,247C488,132 630,74 815,74C938,74 1050,90 1153,121l0,-90C1056,-3 936,-20 791,-20C586,-20 424,46 306,179C188,312 129,497 129,735C129,884 157,1015 214,1128C270,1241 351,1329 457,1391C562,1452 685,1483 825,1483C968,1483 1095,1456 1208,1403l-41,-92C1060,1364 948,1391 831,1391z"/>
+<glyph unicode="D" horiz-adv-x="1446" d="M1317,745C1317,500 1253,314 1124,189C995,63 806,0 557,0l-350,0l0,1462l395,0C835,1462 1013,1401 1135,1279C1256,1157 1317,979 1317,745M1206,741C1206,950 1153,1108 1047,1214C940,1319 784,1372 578,1372l-269,0l0,-1282l242,0C988,90 1206,307 1206,741z"/>
+<glyph unicode="E" horiz-adv-x="1130" d="M1006,0l-799,0l0,1462l799,0l0,-94l-697,0l0,-553l658,0l0,-94l-658,0l0,-627l697,0z"/>
+<glyph unicode="F" horiz-adv-x="1028" d="M309,0l-102,0l0,1462l801,0l0,-94l-699,0l0,-620l660,0l0,-95l-660,0z"/>
+<glyph unicode="G" horiz-adv-x="1481" d="M782,737l539,0l0,-667C1180,10 1021,-20 844,-20C613,-20 437,45 314,176C191,306 129,490 129,729C129,878 160,1010 221,1125C282,1240 369,1328 483,1391C596,1454 727,1485 874,1485C1033,1485 1176,1456 1303,1397l-41,-92C1135,1364 1004,1393 868,1393C675,1393 523,1334 410,1215C297,1096 240,935 240,733C240,513 294,348 401,237C508,126 666,70 874,70C1009,70 1123,89 1217,127l0,514l-435,0z"/>
+<glyph unicode="L" horiz-adv-x="1051" d="M207,0l0,1462l102,0l0,-1366l697,0l0,-96z"/>
+<glyph unicode="M" horiz-adv-x="1767" d="M850,0l-545,1350l-8,0C302,1267 305,1183 305,1096l0,-1096l-98,0l0,1462l158,0l518,-1286l6,0l518,1286l154,0l0,-1462l-103,0l0,1108C1458,1185 1462,1265 1470,1348l-8,0l-547,-1348z"/>
+<glyph unicode="N" horiz-adv-x="1477" d="M1270,0l-103,0l-866,1298l-8,0C301,1143 305,1027 305,948l0,-948l-98,0l0,1462l102,0l865,-1296l6,0C1174,286 1171,400 1171,508l0,954l99,0z"/>
+<glyph unicode="O" horiz-adv-x="1565" d="M1436,733C1436,501 1378,318 1262,183C1146,48 986,-20 782,-20C579,-20 419,48 303,183C187,318 129,502 129,735C129,968 188,1151 305,1285C422,1418 581,1485 784,1485C988,1485 1148,1418 1263,1284C1378,1149 1436,966 1436,733M240,733C240,524 287,362 380,248C473,133 607,76 782,76C958,76 1093,133 1186,246C1279,359 1325,522 1325,733C1325,944 1279,1105 1186,1218C1093,1330 959,1386 784,1386C610,1386 476,1329 382,1216C287,1103 240,942 240,733z"/>
+<glyph unicode="P" horiz-adv-x="1198" d="M1087,1042C1087,901 1039,792 943,717C847,642 711,604 535,604l-226,0l0,-604l-102,0l0,1462l358,0C913,1462 1087,1322 1087,1042M309,692l201,0C675,692 794,719 867,774C940,828 977,916 977,1038C977,1151 942,1234 873,1289C804,1343 696,1370 551,1370l-242,0z"/>
+<glyph unicode="R" horiz-adv-x="1217" d="M309,637l0,-637l-102,0l0,1462l348,0C736,1462 870,1429 957,1362C1044,1295 1087,1194 1087,1059C1087,961 1061,878 1010,811C958,744 879,695 774,666l397,-666l-122,0l-377,637M309,725l279,0C711,725 807,753 875,808C943,863 977,944 977,1051C977,1162 944,1243 877,1294C810,1345 702,1370 551,1370l-242,0z"/>
+<glyph unicode="S" horiz-adv-x="1116" d="M1014,377C1014,255 969,158 880,87C790,16 671,-20 522,-20C343,-20 206,0 111,39l0,102C216,96 351,74 514,74C634,74 729,102 800,157C870,212 905,284 905,373C905,428 893,474 870,511C847,547 809,580 756,610C703,640 626,672 524,707C375,758 272,814 215,874C158,933 129,1013 129,1112C129,1221 172,1311 258,1380C343,1449 453,1483 588,1483C725,1483 854,1457 975,1405l-37,-88C817,1368 701,1393 590,1393C482,1393 396,1368 332,1318C268,1268 236,1200 236,1114C236,1060 246,1016 266,981C285,946 317,915 362,888C407,860 483,827 592,788C706,749 792,711 849,674C906,637 948,595 975,548C1001,501 1014,444 1014,377z"/>
+<glyph unicode="T" horiz-adv-x="1073" d="M588,0l-103,0l0,1366l-475,0l0,96l1053,0l0,-96l-475,0z"/>
+<glyph unicode="U" horiz-adv-x="1473" d="M1282,1462l0,-946C1282,348 1233,217 1136,122C1039,27 903,-20 729,-20C560,-20 428,28 333,123C238,218 190,350 190,520l0,942l103,0l0,-946C293,375 332,266 410,188C488,109 598,70 741,70C880,70 988,109 1065,186C1142,263 1180,369 1180,506l0,956z"/>
+<glyph unicode="W" horiz-adv-x="1827" d="M1372,0l-84,0l-321,1128C940,1221 920,1297 907,1356C896,1298 881,1231 862,1156C842,1081 734,695 539,0l-86,0l-402,1462l107,0l256,-942C424,482 433,447 442,415C451,382 459,352 466,324C473,295 479,268 485,242C490,215 495,189 500,162C516,253 550,390 602,575l250,887l113,0l293,-1018C1292,327 1316,232 1331,160C1340,208 1351,259 1365,313C1378,367 1481,750 1673,1462l103,0z"/>
+<glyph unicode="I" horiz-adv-x="516" d="M207,0l0,1462l102,0l0,-1462z"/>
+</font>
+
+	<font horiz-adv-x="1000">
+<!-- Copyright 1995, 2002 Adobe Systems Incorporated. All Rights Reserved. Delphin is a trademark of Heidelberger Druckmaschinen AG, exclusively licensed through Linotype Library GmbH, and may be registered in certain jurisdictions. -->
+<font-face font-family="DelphinLTStd-1" units-per-em="1000" underline-position="-100" underline-thickness="50"/>
+<missing-glyph horiz-adv-x="515" d="M15,0l500,0l0,700l-500,0M265,395l-170,255l340,0M295,350l170,255l0,-510M95,50l170,255l170,-255M65,605l170,-255l-170,-255z"/>
+<glyph unicode="A" horiz-adv-x="556" d="M348,185C356,163 386,78 386,61C386,48 377,43 368,42C358,40 322,36 309,36l-1,-36C326,0 412,6 431,6C449,6 537,-1 557,0l0,35C508,39 492,42 482,53C466,71 407,241 393,282C370,351 335,461 312,530C298,525 248,510 233,506C206,378 158,256 104,116C75,44 63,41 -2,35l0,-35C13,0 85,6 101,6C118,6 201,1 219,0l0,35C200,35 174,39 164,41C154,42 140,45 140,61C140,74 171,166 178,185M191,224C203,258 252,407 262,437C275,405 304,310 333,224z"/>
+<glyph unicode="G" horiz-adv-x="648" d="M594,214C570,213 533,208 503,208C483,208 384,213 361,214l0,-34C379,179 454,175 466,167C473,163 473,163 473,67C473,55 473,53 464,50C428,36 385,30 354,30C231,30 117,114 117,266C117,463 286,484 345,484C444,484 502,430 507,424C513,414 521,365 521,364l34,0C554,443 554,480 555,490C491,514 403,529 342,529C153,529 35,406 35,254C35,108 146,-14 333,-14C421,-14 513,10 578,34l0,26C551,70 548,71 545,77C543,80 543,83 543,107C543,156 544,162 548,167C553,175 584,179 594,180z"/>
+<glyph unicode="H" horiz-adv-x="648" d="M466,282l-283,0l0,42C183,348 184,405 185,428C187,461 187,465 197,469C209,475 225,477 277,480l0,37C259,516 170,511 151,511C122,511 50,515 20,517l0,-35C27,482 51,480 59,479C69,478 95,476 104,467C111,458 112,457 112,214C112,150 111,98 108,68C106,41 103,41 20,35l0,-35C38,0 128,6 148,6C166,6 237,4 275,0l0,35C263,35 254,36 232,38C197,41 190,47 188,55C182,73 183,203 183,211l0,31l283,0l0,-34C466,192 465,117 465,100C465,86 464,54 455,46C446,38 385,35 371,35l0,-35C411,0 463,6 495,6C535,6 607,1 629,0l0,34C590,37 587,37 576,38C557,41 547,43 544,50C537,68 537,244 537,278C537,316 538,422 542,451C545,472 547,476 630,481l0,36C613,516 529,511 506,511C465,511 407,516 374,517l0,-35C393,481 450,477 459,466C467,456 466,346 466,326z"/>
+<glyph unicode="I" horiz-adv-x="296" d="M21,482C100,476 107,476 110,453C113,435 113,386 113,316C113,246 111,128 111,96C110,68 108,54 101,47C91,38 41,36 20,35l0,-35C28,0 131,6 154,6C178,6 259,0 278,0l0,35C198,38 192,39 188,68C186,79 182,390 188,449C191,477 199,477 278,482l0,35C249,516 177,511 153,511C131,511 42,517 21,517z"/>
+<glyph unicode="M" horiz-adv-x="741" d="M382,112l-124,307C247,447 230,490 219,517C197,516 176,514 155,514C137,514 88,516 61,517l0,-35C86,481 120,480 136,468C135,447 121,302 118,271C114,224 106,164 98,111C91,55 90,46 52,41l-42,-6l0,-35C36,0 63,6 109,6C143,6 214,1 230,0l0,36C149,41 149,41 149,79C149,118 170,377 175,432C186,406 201,371 214,340l84,-207C331,54 334,46 352,0l35,0C419,96 445,167 468,227C478,256 527,397 539,429l20,-204C561,201 573,93 573,74C573,52 570,45 551,42C534,39 508,35 491,35l0,-35C508,0 586,6 608,6C630,6 711,1 731,0l0,35C709,37 661,40 655,53C650,64 647,89 621,317C618,338 610,442 607,465C616,470 627,477 686,482l0,35C674,517 615,514 602,514C582,514 566,514 524,517C514,484 468,353 458,323z"/>
+<glyph unicode="P" horiz-adv-x="463" d="M25,481C57,480 103,478 107,459C112,441 112,311 112,279l0,-63C112,115 112,72 107,56C103,44 97,36 19,35l0,-35C38,0 131,6 151,6C169,6 257,1 277,0l-1,35C269,36 266,36 236,38C225,38 198,40 190,50C183,59 183,162 183,187C183,193 183,436 187,475C199,477 209,478 224,478C248,478 343,478 343,370C343,321 321,267 250,267C236,267 224,269 205,272l-9,-33C218,231 239,228 266,228C352,228 422,284 422,377C422,431 393,517 269,517C216,517 162,511 130,511C98,511 60,516 25,517z"/>
+<glyph unicode="S" horiz-adv-x="407" d="M321,398l0,107C264,528 218,530 203,530C95,530 58,452 58,394C58,313 119,277 165,251C261,197 295,178 295,117C295,82 278,28 197,28C128,28 101,66 100,164l-40,0l0,-147C114,-10 169,-15 195,-15C311,-15 364,62 364,142C364,207 336,251 255,296C152,352 121,369 121,418C121,444 135,491 202,491C278,491 282,440 283,398z"/>
+<glyph unicode=" " horiz-adv-x="160"/>
+</font>
+
+	<font horiz-adv-x="1000">
+<!-- Copyright: Copyright 2013 Adobe System Incorporated. All rights reserved. -->
+<font-face font-family="PartyatGatsbys" units-per-em="1000" underline-position="-75" underline-thickness="50"/>
+<missing-glyph horiz-adv-x="500"/>
+<glyph unicode="B" horiz-adv-x="344" d="M233,498C261,471 282,440 297,405C311,370 318,332 318,293C318,255 309,217 292,179C275,145 251,114 221,87C191,60 157,39 120,24C82,9 43,2 3,2l0,14l10,0l0,697l13,0l0,1C47,714 65,707 80,694C95,681 102,664 102,644C102,623 95,605 80,590C76,585 71,581 66,578C98,574 128,565 157,552C185,538 210,520 233,498M88,644C88,661 82,674 70,684C59,693 45,699 27,700l0,-119C44,581 58,587 70,600C82,612 88,627 88,644M279,185C296,219 304,255 304,293C304,330 297,366 283,399C269,432 249,462 223,488C197,513 167,533 134,546C101,559 65,566 27,567l0,-550C61,20 94,28 126,42C157,55 186,74 212,97C227,110 240,124 251,139C262,154 271,169 279,185z"/>
+<glyph unicode="E" horiz-adv-x="341" d="M32,15l288,0l0,-14l-316,0l0,14l14,0l0,550l-13,0l0,14l13,0l0,124l0,7l0,7l232,0l0,-14l-218,0l0,-124l113,0l0,-14l-113,0l0,-550z"/>
+<glyph unicode="G" horiz-adv-x="415" d="M384,582l0,-14l-15,0l0,-560l0,-6C312,2 261,11 216,29C171,47 132,74 99,109C68,142 46,181 31,225C23,246 17,269 14,292C10,315 8,340 8,365C8,422 18,473 38,518C57,563 86,602 125,634C142,647 161,659 180,670C199,681 220,690 242,697C283,710 326,717 370,717l0,-14C349,703 328,701 307,698C286,695 265,690 246,684C225,677 205,668 186,658C167,648 150,636 134,623C117,609 101,593 88,576C74,558 62,539 53,518C32,475 22,424 22,365C22,316 29,271 44,230C59,187 81,150 110,119C140,86 176,61 217,44C258,27 304,17 355,16l0,552l-127,0l0,14z"/>
+<glyph unicode="H" horiz-adv-x="307" d="M241,709l14,0l0,-710l-14,0l0,565l-215,0l0,-565l-14,0l0,565l-13,0l0,14l13,0l0,131l14,0l0,-131l215,0l0,131z"/>
+<glyph unicode="R" horiz-adv-x="348" d="M220,633C247,607 268,577 283,543C297,509 304,473 304,435C304,398 295,361 278,324C262,291 239,261 210,234C185,212 158,194 128,181C98,167 67,158 35,154l171,-141l-9,-11l-175,144l0,-137l-14,0l0,143l-9,0l0,14l9,0l0,547l11,0l0,1C57,714 93,707 128,693C162,679 193,659 220,633M265,330C282,363 290,398 290,435C290,471 283,505 270,537C256,569 236,598 210,623C185,648 156,667 124,680C92,693 58,699 22,700l0,-533C55,170 86,178 117,191C148,204 175,222 200,245C228,270 250,299 265,330z"/>
+<glyph unicode="S" horiz-adv-x="487" d="M235,492C253,483 275,471 301,458C326,444 351,427 375,407C398,387 418,364 435,337C451,310 459,280 459,246C459,213 453,182 442,152C431,122 414,95 393,72C372,49 347,31 320,19C292,6 263,0 232,0C202,0 173,5 146,16C119,27 94,42 72,63C51,83 34,105 23,129C11,153 5,177 5,202l14,0C19,179 25,157 36,135C47,112 62,92 82,74C103,55 126,40 152,30C177,19 204,14 232,14C261,14 289,20 315,32C341,44 364,61 383,82C402,103 418,127 429,156C440,184 445,214 445,246C445,278 437,307 421,332C405,357 386,379 363,398C340,417 317,433 292,446C267,459 246,470 229,479C220,483 210,488 198,495C185,502 174,510 163,520C152,529 142,540 134,553C126,566 122,580 122,597C122,614 125,629 131,644C136,658 144,670 154,681C164,692 176,700 189,707C202,713 217,716 232,716l0,-14C219,702 206,699 195,694C183,688 173,680 164,671C155,662 149,651 144,638C139,625 136,612 136,597C136,583 140,570 147,559C154,548 163,538 174,529C184,520 195,513 206,507C217,501 227,496 235,492z"/>
+<glyph unicode="T" horiz-adv-x="351" d="M319,716l0,-14l-150,0l0,-700l-14,0l0,700l-151,0l0,14l315,0z"/>
+<glyph unicode="A" horiz-adv-x="370" d="M302,3l-30,142l-229,0l-30,-142l-14,3l30,139l-18,0l0,14l21,0l119,552l13,0l152,-705M46,159l223,0l-112,517z"/>
+<glyph unicode=" " horiz-adv-x="176"/>
+<glyph unicode="Y" horiz-adv-x="427" d="M393,696l-189,-136l0,-560l-14,0l0,559l-190,137l9,12l187,-136l188,136l9,-12z"/>
+</font>
+
+	<text transform="matrix(1 0 0 1 347.5386 92.9141)" font-family="'PartyatGatsbys'" font-size="24.0361">T</text>
+<text transform="matrix(1 0 0 1 360.7822 92.9141)" font-family="'PartyatGatsbys'" font-size="24.0361">H</text>
+<text transform="matrix(1 0 0 1 372.9683 92.9141)" font-family="'PartyatGatsbys'" font-size="24.0361">E</text>
+<text transform="matrix(1 0 0 1 373.4736 190.374)" font-family="'PartyatGatsbys'" font-size="141.856">G</text>
+<text transform="matrix(1 0 0 1 433.7607 190.374)" font-family="'PartyatGatsbys'" font-size="141.856">R</text>
+<text transform="matrix(1 0 0 1 483.1255 190.374)" font-family="'PartyatGatsbys'" font-size="141.856">E</text>
+<text transform="matrix(1 0 0 1 531.4971 190.374)" font-family="'PartyatGatsbys'" font-size="141.856">A</text>
+<text transform="matrix(1 0 0 1 572.21 190.374)" font-family="'PartyatGatsbys'" font-size="141.856">T</text>
+<text transform="matrix(1 0 0 1 622.001 190.374)" font-family="'PartyatGatsbys'" font-size="141.856"> </text>
+<text transform="matrix(1 0 0 1 646.9668 190.374)" font-family="'PartyatGatsbys'" font-size="141.856">G</text>
+<text transform="matrix(1 0 0 1 705.8359 190.374)" font-family="'PartyatGatsbys'" font-size="141.856">A</text>
+<text transform="matrix(1 0 0 1 746.5488 190.374)" font-family="'PartyatGatsbys'" font-size="141.856">T</text>
+<text transform="matrix(1 0 0 1 796.3398 190.374)" font-family="'PartyatGatsbys'" font-size="141.856">S</text>
+<text transform="matrix(1 0 0 1 865.4238 190.374)" font-family="'PartyatGatsbys'" font-size="141.856">B</text>
+<text transform="matrix(1 0 0 1 907.1309 190.374)" font-family="'PartyatGatsbys'" font-size="141.856">Y</text>
+<text transform="matrix(1 0 0 1 514.998 40.4194)" font-family="'OpenSans-Light'" font-size="23.534">UPPER MIDWEST REGIONAL CONFERENCE</text>
+<text transform="matrix(1 0 0 1 3 40.4194)" fill="#1A1A1A" font-family="'DelphinLTStd-1'" font-size="48.883">P</text>
+<text transform="matrix(1 0 0 1 26.6104 40.4194)" fill="#1A1A1A" font-family="'DelphinLTStd-1'" font-size="48.883">H</text>
+<text transform="matrix(1 0 0 1 59.2642 40.4194)" fill="#1A1A1A" font-family="'DelphinLTStd-1'" font-size="48.883">I</text>
+<text transform="matrix(1 0 0 1 74.7104 40.4194)" fill="#1A1A1A" font-family="'DelphinLTStd-1'" font-size="48.883"> </text>
+<text transform="matrix(1 0 0 1 83.5088 40.4194)" fill="#1A1A1A" font-family="'DelphinLTStd-1'" font-size="48.883">S</text>
+<text transform="matrix(1 0 0 1 104.3818 40.4194)" fill="#1A1A1A" font-family="'DelphinLTStd-1'" font-size="48.883">I</text>
+<text transform="matrix(1 0 0 1 119.8281 40.4194)" fill="#1A1A1A" font-family="'DelphinLTStd-1'" font-size="48.883">G</text>
+<text transform="matrix(1 0 0 1 152.4819 40.4194)" fill="#1A1A1A" font-family="'DelphinLTStd-1'" font-size="48.883">M</text>
+<text transform="matrix(1 0 0 1 189.6816 40.4194)" fill="#1A1A1A" font-family="'DelphinLTStd-1'" font-size="48.883">A</text>
+<text transform="matrix(1 0 0 1 217.8384 40.4194)" fill="#1A1A1A" font-family="'DelphinLTStd-1'" font-size="48.883"> </text>
+<text transform="matrix(1 0 0 1 226.6367 40.4194)" fill="#1A1A1A" font-family="'DelphinLTStd-1'" font-size="48.883">P</text>
+<text transform="matrix(1 0 0 1 250.2471 40.4194)" fill="#1A1A1A" font-family="'DelphinLTStd-1'" font-size="48.883">I</text>
+<text transform="matrix(1 0 0 1 269.5205 39.418)" fill="#1A1A1A" font-family="'OpenSans'" font-size="13.8858">C</text>
+<text transform="matrix(1 0 0 1 281.0576 39.418)" fill="#1A1A1A" font-family="'OpenSans'" font-size="13.8858">H</text>
+<text transform="matrix(1 0 0 1 294.0796 39.418)" fill="#1A1A1A" font-family="'OpenSans'" font-size="13.8858">A</text>
+<text transform="matrix(1 0 0 1 305.644 39.418)" fill="#1A1A1A" font-family="'OpenSans'" font-size="13.8858">P</text>
+<text transform="matrix(1 0 0 1 316.7812 39.418)" fill="#1A1A1A" font-family="'OpenSans'" font-size="13.8858">T</text>
+<text transform="matrix(1 0 0 1 327.2402 39.418)" fill="#1A1A1A" font-family="'OpenSans'" font-size="13.8858">E</text>
+<text transform="matrix(1 0 0 1 337.7402 39.418)" fill="#1A1A1A" font-family="'OpenSans'" font-size="13.8858">R</text>
+<text transform="matrix(1 0 0 1 349.1011 39.418)" fill="#1A1A1A" font-family="'OpenSans'" font-size="13.8858"> </text>
+<text transform="matrix(1 0 0 1 355.4854 39.418)" fill="#1A1A1A" font-family="'OpenSans'" font-size="13.8858">E</text>
+<text transform="matrix(1 0 0 1 365.9849 39.418)" fill="#1A1A1A" font-family="'OpenSans'" font-size="13.8858">P</text>
+<text transform="matrix(1 0 0 1 377.1221 39.418)" fill="#1A1A1A" font-family="'OpenSans'" font-size="13.8858">S</text>
+<text transform="matrix(1 0 0 1 387.52 39.418)" fill="#1A1A1A" font-family="'OpenSans'" font-size="13.8858">I</text>
+<text transform="matrix(1 0 0 1 394.1689 39.418)" fill="#1A1A1A" font-family="'OpenSans'" font-size="13.8858">L</text>
+<text transform="matrix(1 0 0 1 404.1533 39.418)" fill="#1A1A1A" font-family="'OpenSans'" font-size="13.8858">O</text>
+<text transform="matrix(1 0 0 1 417.7451 39.418)" fill="#1A1A1A" font-family="'OpenSans'" font-size="13.8858">N</text>
+<text transform="matrix(1 0 0 1 430.9907 39.418)" fill="#1A1A1A" font-family="'OpenSans'" font-size="13.8858"> </text>
+<text transform="matrix(1 0 0 1 437.375 39.418)" fill="#1A1A1A" font-family="'OpenSans'" font-size="13.8858">S</text>
+<text transform="matrix(1 0 0 1 447.7729 39.418)" fill="#1A1A1A" font-family="'OpenSans'" font-size="13.8858">I</text>
+<text transform="matrix(1 0 0 1 454.4214 39.418)" fill="#1A1A1A" font-family="'OpenSans'" font-size="13.8858">G</text>
+<text transform="matrix(1 0 0 1 467.3081 39.418)" fill="#1A1A1A" font-family="'OpenSans'" font-size="13.8858">M</text>
+<text transform="matrix(1 0 0 1 482.6216 39.418)" fill="#1A1A1A" font-family="'OpenSans'" font-size="13.8858">A</text>
+<text transform="matrix(1 0 0 1 271.5 22.4736)" fill="#1A1A1A" font-family="'OpenSans'" font-size="10">N</text>
+<text transform="matrix(1 0 0 1 281.0391 22.4736)" fill="#1A1A1A" font-family="'OpenSans'" font-size="10">A</text>
+<text transform="matrix(1 0 0 1 289.3672 22.4736)" fill="#1A1A1A" font-family="'OpenSans'" font-size="10">T</text>
+<text transform="matrix(1 0 0 1 296.8994 22.4736)" fill="#1A1A1A" font-family="'OpenSans'" font-size="10">I</text>
+<text transform="matrix(1 0 0 1 301.6875 22.4736)" fill="#1A1A1A" font-family="'OpenSans'" font-size="10">O</text>
+<text transform="matrix(1 0 0 1 311.4756 22.4736)" fill="#1A1A1A" font-family="'OpenSans'" font-size="10">N</text>
+<text transform="matrix(1 0 0 1 321.0146 22.4736)" fill="#1A1A1A" font-family="'OpenSans'" font-size="10">A</text>
+<text transform="matrix(1 0 0 1 329.3428 22.4736)" fill="#1A1A1A" font-family="'OpenSans'" font-size="10">L</text>
+<text transform="matrix(1 0 0 1 336.5332 22.4736)" fill="#1A1A1A" font-family="'OpenSans'" font-size="10"> </text>
+<text transform="matrix(1 0 0 1 341.1309 22.4736)" fill="#1A1A1A" font-family="'OpenSans'" font-size="10">H</text>
+<text transform="matrix(1 0 0 1 350.5088 22.4736)" fill="#1A1A1A" font-family="'OpenSans'" font-size="10">O</text>
+<text transform="matrix(1 0 0 1 360.2969 22.4736)" fill="#1A1A1A" font-family="'OpenSans'" font-size="10">N</text>
+<text transform="matrix(1 0 0 1 369.8359 22.4736)" fill="#1A1A1A" font-family="'OpenSans'" font-size="10">O</text>
+<text transform="matrix(1 0 0 1 379.624 22.4736)" fill="#1A1A1A" font-family="'OpenSans'" font-size="10">R</text>
+<text transform="matrix(1 0 0 1 387.8057 22.4736)" fill="#1A1A1A" font-family="'OpenSans'" font-size="10"> </text>
+<text transform="matrix(1 0 0 1 392.4033 22.4736)" fill="#1A1A1A" font-family="'OpenSans'" font-size="10">F</text>
+<text transform="matrix(1 0 0 1 399.5645 22.4736)" fill="#1A1A1A" font-family="'OpenSans'" font-size="10">R</text>
+<text transform="matrix(1 0 0 1 407.7461 22.4736)" fill="#1A1A1A" font-family="'OpenSans'" font-size="10">A</text>
+<text transform="matrix(1 0 0 1 416.0742 22.4736)" fill="#1A1A1A" font-family="'OpenSans'" font-size="10">T</text>
+<text transform="matrix(1 0 0 1 423.6064 22.4736)" fill="#1A1A1A" font-family="'OpenSans'" font-size="10">E</text>
+<text transform="matrix(1 0 0 1 431.168 22.4736)" fill="#1A1A1A" font-family="'OpenSans'" font-size="10">R</text>
+<text transform="matrix(1 0 0 1 439.3496 22.4736)" fill="#1A1A1A" font-family="'OpenSans'" font-size="10">N</text>
+<text transform="matrix(1 0 0 1 448.8887 22.4736)" fill="#1A1A1A" font-family="'OpenSans'" font-size="10">I</text>
+<text transform="matrix(1 0 0 1 453.6768 22.4736)" fill="#1A1A1A" font-family="'OpenSans'" font-size="10">T</text>
+<text transform="matrix(1 0 0 1 461.209 22.4736)" fill="#1A1A1A" font-family="'OpenSans'" font-size="10">Y</text>
+<line fill="#989898" x1="0" y1="59" x2="965" y2="59"/>
+</svg>

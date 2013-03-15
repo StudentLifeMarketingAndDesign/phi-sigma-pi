@@ -1,0 +1,345 @@
+/*@media (min-width: 80em) {
+	html { font-size: 1.125em; }
+}
+
+@media (min-width: 100em) {
+	html { font-size: 1.25em; }
+}*/
+
+html {
+	background: #000;
+}
+
+body {
+	font-family: 'Open Sans';
+}
+
+.c {
+	max-width: 62rem;
+	margin: auto;
+	position: relative;
+}
+
+#uiowa-banner {
+	background: #222;
+	font-family: verdana;
+}
+
+#uiowa-logo,
+#uiowa-dsl-dir {
+	max-height: 2.25rem;
+	overflow: hidden;
+	margin: 0;
+}
+
+#uiowa-logo > embed {
+	width: 15.792682927rem; /* 185px */
+	height: 3.5rem; /* 44px */
+	position: relative;
+	top: -0.75rem;
+	left: -2.125rem;
+}
+
+#uiowa-dsl-dir > a {
+	position: relative;
+	top: 0.3875rem;
+	padding: 0.375rem;
+	color: #ddd;
+	text-decoration: none;
+	font-size: 0.875rem;
+}
+
+#uiowa-dsl-dir > a:before {
+	content: '+';
+	margin-right: 0.1875rem;
+	color: #888;
+}
+
+#uiowa-dsl-dir > a:hover {
+	color: #fff;
+}
+
+#uiowa-dsl-dir > a:hover:before {
+	color: #aaa;
+}
+
+@media (max-width: 768px) {
+	#uiowa-dsl-dir,
+	#uiowa-logo {
+		text-align: center;
+	}
+
+	#uiowa-logo > embed {
+		left: -1rem;
+	}
+}
+
+@media (min-width: 768px) {
+	#uiowa-dsl-dir {
+		float: right;
+		text-align: right;
+	}
+}
+
+#heading-banner {
+	padding-top: 0.25rem;
+	background: #f3f3f3;
+	border-bottom: 0.3125rem solid #9c8786;
+}
+
+#heading-banner nav {
+	position: absolute;
+	bottom: 0.625rem;
+	right: 0;
+	font-family: 'Open Sans', sans-serif;
+}
+
+#heading-banner nav a {
+	text-transform: uppercase;
+	color: #444;
+	margin-left: 2rem;
+	padding: 0.75rem 0.875rem;
+	font-weight: 300;
+	text-shadow: 0.0625rem 0.0625rem 0.0625rem #fff;
+	background: #f3f3f3;
+	font-size: 0.875rem;
+}
+
+#heading-banner nav a:hover {
+	color: #222;
+	text-decoration: none;
+	border-bottom: 0.3125rem solid #444;
+}
+
+@media (max-width: 768px) {
+	#heading-banner nav {
+		white-space: nowrap;
+	}
+
+	#heading-banner nav a {
+		font-size: 0.75rem;
+		margin-left: -0.3875rem;
+	}
+}
+
+@media (max-width: 400px) {
+    #heading-banner img {
+	    display: none;
+    }
+	#heading-banner nav {
+		position: static;
+		text-align: center;
+	}
+	#heading-banner nav a {
+		font-size: 1rem;
+		display: block;
+	}
+}
+
+
+#head-line {
+	display: block;
+	width: 100%;
+	height: 0.0625rem;
+	background: #dbdbdb;
+	position: absolute;
+	top: 3.75rem;
+	left: 0;
+}
+
+@media (max-width: 62em) {
+	#head-line {
+		display: none;
+	}
+}
+
+#main {
+	background: url('/phisigmapi/themes/psp/images/mc-bg-pattern.png');
+	height: 25rem;
+	border-bottom: 0.3125rem solid #9c8685;
+}
+
+#main > .c {
+	background: #fff;
+	max-width: 57rem;
+	top: 2.5rem;
+	border: 0.0625rem solid rgba(0,0,0, 0.3);
+	box-shadow: 0 0.125rem 0.375rem rgba(0,0,0, 0.15);
+	padding: 2.5rem;
+	position: relative;
+}
+
+@media (min-width: 768px) {
+	#main > .c.slim {
+		max-width: 35rem;
+		position: relative;
+		left: -11rem;
+	}
+
+	#main > .c.slim div.asides {
+		width: 20rem;
+		position: absolute;
+		top: 0;
+		right: -22rem;
+	}
+	
+	#main > .c.slim aside {
+		background: #fff;
+		border: 0.0625rem solid rgba(0,0,0, 0.3);
+		box-shadow: 0 0.125rem 0.375rem rgba(0,0,0, 0.15);
+		padding: 1rem;
+		margin-bottom: 1rem;
+	}
+	
+	#main .asides a {
+		float: right;
+	}
+}
+
+#main .asides aside {
+	clear: both;
+}
+
+#main .asides h3 {
+	text-transform: uppercase;
+	margin-top: 0;
+	font-size: 1.25rem;
+	display: block;
+}
+
+#main .asides p {
+	font-size: 0.75rem;
+}
+
+#main .asides a {
+	color: #000;
+	text-transform: uppercase;
+	font-size: 0.875rem;
+	position: relative;
+	top: -1rem;
+}
+
+#footer {
+	background: #000;
+	padding: 2rem 0;
+	display: none;
+}
+
+#footer span {
+	display: inline-block;
+}
+
+@media (min-width: 768px) {
+	#footer .c > span:not(:first-child) {
+		border-left: 1px solid #444;
+		padding-left: 1rem;
+	}
+}
+
+@media (max-width: 768px) {
+	#footer .c > span {
+		padding-left: 1rem;
+		paddign-right: 1rem;
+	}
+	#footer .c > span:first-child {
+		padding-bottom: 1rem;
+	}
+	#footer .c > span:not(:first-child) {
+		border-top: 1px solid #444;
+		padding: 1rem 0;
+	}
+	#footer a {
+		display: block;
+		text-align: center;
+	}
+}
+
+#footer span > a {
+	display: block;
+	color: #888;
+}
+
+.button {
+	background: #000;
+	padding: 1rem 1.5rem;
+	color: #fff;
+	font-family: 'Open Sans';
+	text-transform: uppercase;
+	font-weight: 300;
+	font-size: 1.125rem;
+}
+
+.button:hover {
+	text-decoration: underline;
+}
+
+.button:active {
+	color: #fff;
+}
+
+h1 {
+	font-family: PaG;
+	font-style: normal;
+	text-transform: uppercase;
+	font-size: 4rem;
+	margin-bottom: 0;
+}
+
+h1:first-child {
+	margin-top: 0.75rem;
+}
+
+h2 {
+	font-family: 'Open Sans';
+	font-weight: 600;
+	margin-bottom: 0.25rem;
+	margin-top: 0.75rem;
+}
+
+h3 {
+	font-family: 'Open Sans';
+	font-weight: 300;
+}
+
+.bigger {
+	font-size: 150%;
+}
+
+.smaller {
+	font-size: 87.5%;
+}
+
+.padded-left {
+	padding-left: 2rem;
+}
+
+table {
+	width: 100%;
+}
+
+table.people p {
+	text-transform: uppercase;
+	margin: 0;
+	font-size: 0.75rem;
+}
+
+table.people p:nth-of-type(2) { /* first-of-type contains image */
+	font-size: 1rem;
+}
+
+td {
+	padding-bottom: 2rem;
+	vertical-align: top;
+}
+
+.supply-drive table p {
+	padding: 1rem 0;
+}
+
+.supply-drive td {
+	width: 50%;
+}
+
+.supply-drive td:nth-of-type(2) {
+	padding-left: 1rem;
+}
