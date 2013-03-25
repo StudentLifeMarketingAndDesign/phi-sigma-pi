@@ -66,8 +66,8 @@
 					<a href="{$BaseHref}supply-drive">Supply Drive</a>
 				</span>
 				<span class="span4">
-					<a href="#fb">Facebook</a>
-					<a href="#twitter">Twitter</a>
+					<a target="_blank" href="http://www.facebook.com/pages/Phi-Sigma-Pi-National-Honors-Fraternity-at-UIowa/100367310092333">Facebook</a>
+					<a target="_blank" href="https://twitter.com/phisigmapi">Twitter</a>
 				</span>
 			</div>
 		</div>
