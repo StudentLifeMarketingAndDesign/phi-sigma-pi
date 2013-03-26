@@ -191,7 +191,7 @@ body {
 		margin-bottom: 1rem;
 	}
 	
-	#main .asides a {
+	#main .asides a.readmore {
 		float: right;
 	}
 }
@@ -213,6 +213,9 @@ body {
 
 #main .asides a {
 	color: #000;
+}
+
+#main .asides a.readmore {
 	text-transform: uppercase;
 	font-size: 0.875rem;
 	position: relative;
@@ -327,8 +330,11 @@ table.people p:nth-of-type(2) { /* first-of-type contains image */
 	font-size: 1rem;
 }
 
-td {
+table.people tr:not(:last-of-type) td {
 	padding-bottom: 2rem;
+}
+
+td {
 	vertical-align: top;
 }
 
