@@ -23,7 +23,7 @@
 		<div id="uiowa-banner" class="row-fluid">
 			<div class="c">
 				<span id="uiowa-dsl-dir" class="span6">
-					<a href="http://studentlife.uiowa.edu/" target="_blank">Division of Student Life Directory</a>
+					<a href="http://studentlife.uiowa.edu/about/directory/" target="_blank">Division of Student Life Directory</a>
 				</span>
 				<span id="uiowa-logo" class="span6">
 					<embed src="$ThemeDir/images/DomeWordsingleNoDome-white.svg" type="image/svg+xml">
