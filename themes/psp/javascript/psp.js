@@ -23,9 +23,23 @@ function makeContainerSlimIfNeeded () {
 	}
 }
 
+function fixUserForms () {
+	$('fieldset .field.checkbox').each(function (i) {
+		var checkboxField = $(this);
+		var label = checkboxField.find('label');
+
+		checkboxField.prepend(label.clone());
+		label.remove();
+		checkboxField.css('paddingBottom', '16px');
+	});
+}
+
+setInterval(positionFooter, 2000);
+
 window.onload = function () {
 	makeContainerSlimIfNeeded();
 	positionFooter();
+	fixUserForms();
 }
 
 window.onresize = function () {
