@@ -20,16 +20,6 @@ body {
 	position: relative;
 }
 
-@media (min-width: 768px) {
-	.right_50 {
-		float: right;
-	}
-	.right_50,
-	.left_50 {
-		width: 50%;
-	}
-}
-
 #uiowa-banner {
 	background: #222;
 	font-family: verdana;
@@ -256,6 +246,7 @@ body {
 	}
 	#footer .c > span:first-child {
 		padding-bottom: 1rem;
+		padding-right: 1.5rem;
 	}
 	#footer .c > span:not(:first-child) {
 		border-top: 1px solid #444;

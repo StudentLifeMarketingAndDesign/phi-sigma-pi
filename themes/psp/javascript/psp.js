@@ -34,8 +34,6 @@ function fixUserForms () {
 	});
 }
 
-setInterval(positionFooter, 2000);
-
 window.onload = function () {
 	makeContainerSlimIfNeeded();
 	positionFooter();
@@ -46,3 +44,7 @@ window.onresize = function () {
 	makeContainerSlimIfNeeded();
 	positionFooter();
 }
+
+$(document).on('click', 'input[type="submit"]', function () {
+	setTimeout(positionFooter, 500);
+});
