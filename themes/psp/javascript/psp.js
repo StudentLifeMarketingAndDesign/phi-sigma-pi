@@ -35,9 +35,7 @@ function fixUserForms () {
 }
 
 window.onload = function () {
-	makeContainerSlimIfNeeded();
 	positionFooter();
-	fixUserForms();
 }
 
 window.onresize = function () {
@@ -47,4 +45,18 @@ window.onresize = function () {
 
 $(document).on('click', 'input[type="submit"]', function () {
 	setTimeout(positionFooter, 500);
+});
+
+function setEmailLinks () {
+	$('.at_uiowa, .at_gmail').each(function () {
+		var eLink = $(this);
+		var host = eLink.hasClass('at_uiowa') ? 'uiowa.edu' : 'gmail.com';
+		eLink.attr('href', 'mailto:' + eLink.text() + '@' + host);
+	});
+}
+
+$(document).ready(function () {
+	makeContainerSlimIfNeeded();
+	setEmailLinks();
+	fixUserForms();
 });
