@@ -418,3 +418,20 @@ input[type='submit'] {
 	color: white;
 	padding: 0.5rem 1rem;
 }
+
+ol > li {
+	font-weight: bold;
+	margin-bottom: 1rem;
+}
+
+ol > li * {
+	font-weight: normal;
+}
+
+.contact {
+	background: #eee;
+	margin: 1rem 0;
+	padding: 1rem 1.25rem;
+	border: 0.125rem dotted #e0e0e0;
+	color: #444;
+}
