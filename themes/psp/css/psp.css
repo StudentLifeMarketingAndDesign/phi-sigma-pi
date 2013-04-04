@@ -154,7 +154,7 @@ body {
 }
 
 #main {
-	background: url('/phisigmapi/themes/psp/images/mc-bg-pattern.png');
+	background: url('../images/mc-bg-pattern.png');
 	height: 25rem;
 	border-bottom: 0.3125rem solid #9c8685;
 }
