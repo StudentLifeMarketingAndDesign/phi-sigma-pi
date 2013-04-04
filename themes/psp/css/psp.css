@@ -182,7 +182,7 @@ body {
 		top: 0;
 		right: -22rem;
 	}
-	
+
 	#main > .c.slim aside {
 		background: #fff;
 		border: 0.0625rem solid rgba(0,0,0, 0.3);
@@ -190,7 +190,7 @@ body {
 		padding: 1rem;
 		margin-bottom: 1rem;
 	}
-	
+
 	#main .asides a.readmore {
 		float: right;
 	}
@@ -322,17 +322,22 @@ table {
 }
 
 table.people p {
-	text-transform: uppercase;
 	margin: 0;
 	font-size: 0.75rem;
 }
 
-table.people p:nth-of-type(2) { /* first-of-type contains image */
+table.people p:nth-of-type(2) { /* first-of-type contains image, 2nd contains title */
 	font-size: 1rem;
+	text-transform: uppercase;
 }
 
 table.people tr:not(:last-of-type) td {
 	padding-bottom: 2rem;
+}
+
+table.people img {
+	width: 100% !important;
+	border-radius: 0.1875rem;
 }
 
 td {
@@ -443,4 +448,17 @@ ol > li * {
 
 .at_uiowa:after {
 	content: '@uiowa.edu';
+}
+
+table p img {
+	display: block;
+	float: none !important;
+}
+
+.people td {
+	padding-right: 1rem;
+}
+
+table {
+	table-layout: fixed;
 }
